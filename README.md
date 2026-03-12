@@ -1,5 +1,15 @@
     updated on: 7th September 2021
-
+---
+title: K-means
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: "4.0.0"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
 <div align=center>
     <a href="https://warmachine028.github.io/KMeansExample"><img width=200 src="data/img/ico.ico" alt="KMeansExample"></a>
     <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> A sleek CLI app for KMeans Clustering </p>
